@@ -42,6 +42,5 @@ Rankings originally published in:
 
 The Top 50: USGlass Magazine's 2025 Rankings of the Largest Contract Glaziers
 **USG**lass Magazine, February 2025
-[https://www.usglassmag.com/the-top-50-usglass-magazines-2025-rankings-of-the-largest-contract-glaziers/
-](url)
+[https://www.usglassmag.com/the-top-50-usglass-magazines-2025-rankings-of-the-largest-contract-glaziers/](url)
 Data reflects self-reported 2024 annual revenues. Companies marked with an asterisk in the original publication did not provide financial data; figures for those companies are estimated by Key Media & Research based on field reports.
