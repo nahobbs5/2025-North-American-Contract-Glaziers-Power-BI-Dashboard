@@ -3,6 +3,9 @@
 This dashboard was built to transform a static industry ranking into an interactive analytical tool that allows users to explore revenue distribution, geographic concentration, company size tiers, and year-over-year rank movement across the contract glazing industry.
 The underlying data was sourced from USGlass Magazine's 2025 Top 50 Contract Glaziers report, which ranks companies by annual revenue based on self-reported financials and field estimates from Key Media & Research.
 
+![Full Dashboard](dashboard.png)
+
+
 ## Dashboard Features
 ### KPI Cards — at-a-glance industry summary including average revenue per company, states represented, total companies ranked, and total industry revenue
 - **Top 20 Bar Chart** — horizontal bar chart of the 20 largest companies by 2024 revenue, color-coded by size tier
