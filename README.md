@@ -5,26 +5,31 @@ The underlying data was sourced from USGlass Magazine's 2025 Top 50 Contract Gla
 
 ## Dashboard Features
 ### KPI Cards — at-a-glance industry summary including average revenue per company, states represented, total companies ranked, and total industry revenue
-Top 20 Bar Chart — horizontal bar chart of the 20 largest companies by 2024 revenue, color-coded by size tier
-Companies by State — geographic distribution of Top 50 headquarters across U.S. states and Canadian provinces
-Size Tier Donut Chart — breakdown of the 50 companies into four revenue tiers: Enterprise ($200M+), Large ($100–199M), Mid-Size ($50–99M), and Emerging (under $50M)
-Notable Movers & New Entrants — table highlighting companies with significant rank changes and first-time list entrants
+- **Top 20 Bar Chart** — horizontal bar chart of the 20 largest companies by 2024 revenue, color-coded by size tier
+- **Companies by State** — geographic distribution of Top 50 headquarters across U.S. states and Canadian provinces
+- **Size Tier Donut Chart** — breakdown of the 50 companies into four revenue tiers: Enterprise ($200M+), Large ($100–199M), Mid-Size ($50–99M), and Emerging (under $50M)
+- **Notable Movers & New Entrants** — table highlighting companies with significant rank changes and first-time list entrants
 
-### Data
+## Data
 The Excel workbook (Top50_Glaziers_PowerBI_Ready.xlsx) contains three worksheets used as the data source:
-SheetContentsCompany RankingsAll 50 companies with rank, revenue, headquarters, region, size tier, years in business, rank change, and notable flagState SummaryAggregated company count and revenue totals by stateKPI SummaryPre-calculated headline metrics
+
+| Sheet | Contents |
+|-------|----------|
+| Company Rankings | All 50 companies with rank, revenue, headquarters, region, size tier, years in business, rank change, and notable flag |
+| State Summary | Aggregated company count and revenue totals by state |
+| KPI Summary | Pre-calculated headline metrics |
+
 The Company Rankings sheet was enriched with several derived columns beyond the original published data:
 
-Region — U.S. Census-based regional grouping (Northeast, South, Midwest, West, Canada)
-Size Tier — revenue-based classification into four tiers
-Rank Change vs 2024 — year-over-year rank movement
-Notable — flag for significant movers and new entrants
+**Region** — U.S. Census-based regional grouping (Northeast, South, Midwest, West, Canada)  
+**Size Tier** — revenue-based classification into four tiers  
+**Rank Change vs 2024** — year-over-year rank movement  
+**Notable** — flag for significant movers and new entrants
 
 ## Tools Used
 
 Microsoft Power BI Desktop
 Microsoft Excel (data preparation)
-Data source: **USG**lass Magazine / Key Media & Research
 
 Data Source
 Rankings originally published in:
