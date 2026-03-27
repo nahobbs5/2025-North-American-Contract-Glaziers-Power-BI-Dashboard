@@ -31,7 +31,11 @@ The Company Rankings sheet was enriched with several derived columns beyond the 
 Microsoft Power BI Desktop
 Microsoft Excel (data preparation)
 
-Data Source
+## Files
+- [Power BI Dashboard (.pbix)](contract-glaziers-dashboard.pbix)
+- [Dataset (.xlsx)](Top50_Glaziers_PowerBI_Ready.xlsx)
+
+## Data Source
 Rankings originally published in:
 
 The Top 50: USGlass Magazine's 2025 Rankings of the Largest Contract Glaziers
