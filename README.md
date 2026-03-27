@@ -32,7 +32,6 @@ Microsoft Power BI Desktop
 Microsoft Excel (data preparation)
 
 ## Files
-- [Power BI Dashboard (.pbix)](contract-glaziers-dashboard.pbix)
 - [Dataset (.xlsx)](Top50_Glaziers_PowerBI_Ready.xlsx)
 
 ## Data Source
